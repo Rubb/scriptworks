@@ -1,7 +1,7 @@
 /*
     set_hovertext.lsl
     
-    Last edited: 2018-09-02
+    Last edited: 2019-06-16
 
     Shows how llSetText works to set (and more importantly REMOVE) prim hovertext.
 
@@ -20,7 +20,7 @@
     4. Set the script to "Running".
     5. Save.
 
-    Copyright 2018 Carissima Tedeschi @ Second Life
+    Copyright 2018-9 Carissima Tedeschi @ Second Life
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
