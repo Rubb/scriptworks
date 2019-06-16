@@ -54,8 +54,8 @@ string HOVER_TEXT = "Your text here.";
     Change the values in the vector below. The order is <RED, BLUE, GREEN>.
 
       * RED would be <1.0, 0.0, 0.0>
-      * BLUE is <0.0, 1.0, 0.0>
-      * GREEN is (you guessed it) <0.0, 0.0, 1.0>
+      * BLUE is <0.0, 0.0, 1.0>
+      * GREEN is (you guessed it) <0.0, 1.0, 0.0>
       * WHITE is <1.0, 1.0, 1.0>
       * BLACK is <0.0, 0.0, 0.0>
 
